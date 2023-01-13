@@ -1,5 +1,6 @@
 # ETW-BYPASS
 
+
 This script perform ETW-Bypass to avoid EDR detection
 
 ```powershell
